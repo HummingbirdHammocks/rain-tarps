@@ -1,4 +1,4 @@
-# Title
+# Heron Rain Tarp
 
 The Hummingbird Hammocks Heron Rain Tarp is an ultralight, silpoly rain tarp intended for use with a hammock.
 
@@ -7,7 +7,7 @@ https://hummingbirdhammocks.com/products/heron-rain-tarp
 
 ## Table of Contents
 
-- [Title](#title)
+- [Heron Rain Tarp](#heron-rain-tarp)
   - [Table of Contents](#table-of-contents)
   - [General Info](#general-info)
   - [Specifications](#specifications)

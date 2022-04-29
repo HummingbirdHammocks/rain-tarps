@@ -1,4 +1,4 @@
-# Title
+# Pelican Rain Tarp
 
 The Hummingbird Hammocks Pelican Rain Tarp is an ultralight, silpoly rain tarp intended for use with a hammock. This rain tarp features closable sections on the ends to fully enclose the hammock.
 
@@ -7,7 +7,7 @@ https://hummingbirdhammocks.com/products/pelican-rain-tarp
 
 ## Table of Contents
 
-- [Title](#title)
+- [Pelican Rain Tarp](#pelican-rain-tarp)
   - [Table of Contents](#table-of-contents)
   - [General Info](#general-info)
   - [Specifications](#specifications)
